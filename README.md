@@ -16,6 +16,7 @@ Description: This dataset is used for making critical medical decisions. It incl
 ## Models
 
 > RuleFit Algorithm
+
 Description: RuleFit is a model that combines the predictive power of decision trees with the interpretability of linear models. It generates rules from decision trees and then fits a sparse linear model to these rules.
 Flowchart:
 
@@ -23,6 +24,7 @@ Flowchart:
 
 
 > Hierarchical Shrinkage Model
+
 Description: This model applies hierarchical shrinkage to improve the stability and interpretability of the estimates. It is particularly useful for high-dimensional data where traditional models may overfit.
 Flowchart:
 
@@ -30,6 +32,7 @@ Flowchart:
 
 
 > Random Forest Plus Regressor
+
 Description: An enhanced version of the traditional RandomForestRegressor, this model includes additional features for better performance and interpretability.
 Flowchart:
 
